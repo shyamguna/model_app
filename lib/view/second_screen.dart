@@ -32,10 +32,7 @@ class _SecondScreenState extends State<SecondScreen> {
                   SizedBox(width: 10),
                   Text(
                     AppString.maintitletwo,
-                    style: TextStyle(
-                        fontSize: 20,
-                        color: Colors.black,
-                        fontWeight: FontWeight.bold),
+                    style: TextStyle(fontSize: 20, color: Colors.black, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(width: 150),
                   Image.asset(
