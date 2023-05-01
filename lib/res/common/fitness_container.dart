@@ -36,7 +36,7 @@ class FitnessContainer extends StatelessWidget {
             color: Colors.white,
           ),
         ),
-        Image.asset("")
+        // Image.asset("")
       ],
     );
   }
